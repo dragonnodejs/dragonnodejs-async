@@ -1,6 +1,6 @@
 'use strict';
 
-// Module to define a service async
+// Module to define a service asynchronously
 
 module.exports = (config, libraries, services) => {
     let Promise = libraries.Promise;

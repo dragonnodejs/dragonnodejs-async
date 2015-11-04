@@ -85,7 +85,7 @@ describe('dragonnodejs-async', () => {
         });
     });
 
-    it('should allow a module to be async', () => {
+    it('should allow a module to be asynchronously', () => {
         let config = {
             directory: __dirname + '/',
             libraries: {
