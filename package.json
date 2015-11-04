@@ -1,0 +1,21 @@
+{
+  "name": "dragonnodejs-async",
+  "description": "Framework to develop modular and testable Node.js applications",
+  "version": "5.0.1",
+  "homepage": "http://github.com/dragonnodejs/dragonnodejs-async",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "dependencies": {
+    "bluebird": "^2.10.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragonnodejs/dragonnodejs-async.git"
+  }
+}
