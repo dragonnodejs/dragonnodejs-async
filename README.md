@@ -1,5 +1,7 @@
 [![Travis CI](https://travis-ci.org/dragonnodejs/dragonnodejs-async.svg?branch=master "Travis CI")]
  (https://travis-ci.org/dragonnodejs/dragonnodejs-async)
+[![Dependency Status](https://david-dm.org/dragonnodejs/dragonnodejs-async.svg)](https://david-dm.org/dragonnodejs/dragonnodejs-async)
+[![devDependency Status](https://david-dm.org/dragonnodejs/dragonnodejs-async/dev-status.svg)](https://david-dm.org/dragonnodejs/dragonnodejs-async#info=devDependencies)
 
 # DragonNode.js Async
 Framework to develop modular and testable Node.js applications
@@ -17,4 +19,4 @@ Framework to develop modular and testable Node.js applications
 See: [dragonnodejs/app-skeleton](https://github.com/dragonnodejs/app-skeleton.git)
 
 ## Create new Bundle
-See: [dragonnodejs/app-skeleton](https://github.com/dragonnodejs/bundle-skeleton.git)
+See: [dragonnodejs/bundle-skeleton](https://github.com/dragonnodejs/bundle-skeleton.git)
